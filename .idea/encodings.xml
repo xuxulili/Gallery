@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/libs/jsoup-1.8.1.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/libs/universal-image-loader-1.9.3.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/data/gallery/gallery/app.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/data/gallery/gallery/ui/SlidingFinishLayout.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/data/gallery/gallery/ui/SwipeBackActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/data/gallery/gallery/utils/NetWorkUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/data/gallery/gallery/utils/ShareUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/anim/base_slide_right_in.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/anim/base_slide_right_out.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/anim/close_exit.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/anim/main_enter.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/activated_background.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_dashboard.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_discuss.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_done.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_event.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_forum.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_headset.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_loading.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_menu.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_toc_white_24dp.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/img1.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/loading.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/selectable_background.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/shadow_left.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/splash.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/up.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/w1.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/base.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_left.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/item_details_picture.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/nav_header.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/menu/drawer_view.xml" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

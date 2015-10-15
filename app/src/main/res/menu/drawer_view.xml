@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/scenery"
+
+            android:title="风光" />
+        <item
+            android:id="@+id/humanities"
+            android:title="人文" />
+        <item
+            android:id="@+id/Plant"
+            android:title="植物" />
+        <item
+            android:id="@+id/under_water"
+            android:title="水下" />
+        <item
+            android:id="@+id/Aerial"
+            android:title="航拍" />
+        <!--<item-->
+            <!--android:id="@+id/scenery"-->
+            <!--android:icon="@drawable/ic_event"-->
+            <!--android:title="风光" />-->
+        <!--<item-->
+            <!--android:id="@+id/humanities"-->
+            <!--android:icon="@drawable/ic_forum"-->
+            <!--android:title="人文" />-->
+        <!--<item-->
+            <!--android:id="@+id/Plant"-->
+            <!--android:icon="@drawable/ic_headset"-->
+            <!--android:title="植物" />-->
+        <!--<item-->
+            <!--android:id="@+id/under_water"-->
+            <!--android:icon="@android:drawable/ic_menu_myplaces"-->
+            <!--android:title="水下" />-->
+        <!--<item-->
+            <!--android:id="@+id/Aerial"-->
+            <!--android:icon="@drawable/ic_headset"-->
+            <!--android:title="航拍" />-->
+        <!--Plant-->
+    </group>
+
+    <item android:title="leaving in the way"
+          >
+        <menu>
+            <!--<item-->
+                <!--android:id="@+id/theme"-->
+                <!--android:icon="@android:drawable/ic_dialog_dialer"-->
+                <!--android:title="主题切换" />    -->
+<item   android:id="@+id/exit"
+        android:icon="@drawable/ic_dashboard"
+        android:title="退出" />
+    </menu>
+    </item>
+
+    </menu>

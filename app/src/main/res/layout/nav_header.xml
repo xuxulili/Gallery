@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="160dp"
+    android:background="@drawable/splash"
+    >
+    <!--android:orientation="vertical"-->
+    <!--android:padding="16dp"-->
+    <!--android:background="?attr/colorPrimaryDark"-->
+    <!--android:theme="@style/ThemeOverlay.AppCompat.Dark"-->
+    <!--<de.hdodenhof.circleimageview.CircleImageView-->
+        <!--android:layout_width="125dp"-->
+        <!--android:layout_height="125dp"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:scaleType="centerCrop"-->
+
+         <!--/>-->
+    <!--android:src="@mipmap/datatool3"-->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:textColor="#ffffff"
+        android:gravity="center_horizontal"
+        android:layout_marginBottom="6dp"
+        android:layout_alignParentBottom="true"
+        android:text="美丽中国"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"/>
+    <!--<ImageView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:src="@drawable/splash"-->
+        <!--/>-->
+</RelativeLayout>
